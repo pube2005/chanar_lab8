@@ -1,0 +1,8 @@
+target/
+.idea/
+.DS_Store
+*.iml
+*.docx
+.~lock.*#
+starter/
+.verification/
